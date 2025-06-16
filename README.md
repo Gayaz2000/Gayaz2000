@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gayaz2000
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science and GenAI
+- 🌱 I’m currently learning Multi Agent Technology
 - 💞️ I’m looking to collaborate on real-time project
 - 📫 How to reach me gayazjune2000@gmail.com
 
